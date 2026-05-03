@@ -4,6 +4,11 @@
 Examine the relationships between taxation levels and housing code 
 violations.
 
+## Tools Used
+Tableau : Data Visualization and Analysis
+Rstudio : Data wrangling and cleaning
+US Census Geocoder : Location data creation
+
 ## Product
 Tableau Dashboard
 
